@@ -1,16 +1,15 @@
-## Hi there 👋
+## नमस्ते (Namaste), I am [Vivek Malaviya]
 
-<!--
-**VivekMalaviya18/VivekMalaviya18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A tech enthusiast who loves to learn about new things. I currently persuing the MCA at [PU](https://paruluniversity.ac.in/). I love to learn & discussing new ideas. Connect with me on LinkedIn if you'd like to talk ✌️
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekmalaviya404/)](https://www.linkedin.com/in/vivekmalaviya404/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/who_s_vivek/)](https://www.instagram.com/who_s_vivek/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@malaviyavivek56@gmail.com)](mailto:mail@malaviyavivek56@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekMalaviya18&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VivekMalaviya18&theme=dark&hide_border=true" width="400">
+</p>
+
