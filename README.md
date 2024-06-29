@@ -11,5 +11,7 @@ A tech enthusiast who loves to learn about new things. I currently persuing the 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VivekMalaviya18&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VivekMalaviya18&theme=dark&hide_border=true" width="400">
+  
 </p>
 
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekMalaviya18&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
